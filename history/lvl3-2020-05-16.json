@@ -1,107 +1,48 @@
 {
   "type": "lvl3",
-  "date": "2020-06-08",
+  "date": "2020-05-16",
   "skills": [
     {
       "name": "attack",
       "xpstart": 0,
-      "rates": [
-        {
-          "start": 0,
-          "rate": 0,
-          "invalid": false,
-          "description": "-"
-        }
-      ]
+      "rates": [{ "start": 0, "rate": 0, "invalid": false, "description": "-" }]
     },
     {
       "name": "defence",
       "xpstart": 0,
-      "rates": [
-        {
-          "start": 0,
-          "rate": 0,
-          "invalid": false,
-          "description": "-"
-        }
-      ]
+      "rates": [{ "start": 0, "rate": 0, "invalid": false, "description": "-" }]
     },
     {
       "name": "strength",
       "xpstart": 0,
-      "rates": [
-        {
-          "start": 0,
-          "rate": 0,
-          "invalid": false,
-          "description": "-"
-        }
-      ]
+      "rates": [{ "start": 0, "rate": 0, "invalid": false, "description": "-" }]
     },
     {
       "name": "hitpoints",
       "xpstart": 0,
-      "rates": [
-        {
-          "start": 0,
-          "rate": 0,
-          "invalid": false,
-          "description": "-"
-        }
-      ]
+      "rates": [{ "start": 0, "rate": 0, "invalid": false, "description": "-" }]
     },
     {
       "name": "ranged",
       "xpstart": 0,
-      "rates": [
-        {
-          "start": 0,
-          "rate": 0,
-          "invalid": false,
-          "description": "-"
-        }
-      ]
+      "rates": [{ "start": 0, "rate": 0, "invalid": false, "description": "-" }]
     },
     {
       "name": "prayer",
       "xpstart": 0,
-      "rates": [
-        {
-          "start": 0,
-          "rate": 0,
-          "invalid": false,
-          "description": "-"
-        }
-      ]
+      "rates": [{ "start": 0, "rate": 0, "invalid": false, "description": "-" }]
     },
     {
       "name": "magic",
       "xpstart": 0,
-      "rates": [
-        {
-          "start": 0,
-          "rate": 0,
-          "invalid": false,
-          "description": "-"
-        }
-      ]
+      "rates": [{ "start": 0, "rate": 0, "invalid": false, "description": "-" }]
     },
     {
       "name": "cooking",
       "xpstart": 0,
       "rates": [
-        {
-          "start": 0,
-          "rate": 40000,
-          "invalid": false,
-          "description": "-"
-        },
-        {
-          "start": 7842,
-          "rate": 130000,
-          "invalid": false,
-          "description": "-"
-        },
+        { "start": 0, "rate": 40000, "invalid": false, "description": "-" },
+        { "start": 7842, "rate": 130000, "invalid": false, "description": "-" },
         {
           "start": 37224,
           "rate": 175000,
@@ -126,30 +67,10 @@
       "name": "woodcutting",
       "xpstart": 0,
       "rates": [
-        {
-          "start": 0,
-          "rate": 7000,
-          "invalid": false,
-          "description": "-"
-        },
-        {
-          "start": 2411,
-          "rate": 16000,
-          "invalid": false,
-          "description": "-"
-        },
-        {
-          "start": 13363,
-          "rate": 35000,
-          "invalid": false,
-          "description": "-"
-        },
-        {
-          "start": 41171,
-          "rate": 47775,
-          "invalid": false,
-          "description": "-"
-        },
+        { "start": 0, "rate": 7000, "invalid": false, "description": "-" },
+        { "start": 2411, "rate": 16000, "invalid": false, "description": "-" },
+        { "start": 13363, "rate": 35000, "invalid": false, "description": "-" },
+        { "start": 41171, "rate": 47775, "invalid": false, "description": "-" },
         {
           "start": 302288,
           "rate": 143320,
@@ -185,37 +106,15 @@
     {
       "name": "fletching",
       "xpstart": 0,
-      "rates": [
-        {
-          "start": 0,
-          "rate": 0,
-          "invalid": false,
-          "description": "-"
-        }
-      ]
+      "rates": [{ "start": 0, "rate": 0, "invalid": false, "description": "-" }]
     },
     {
       "name": "fishing",
       "xpstart": 0,
       "rates": [
-        {
-          "start": 0,
-          "rate": 14000,
-          "invalid": false,
-          "description": "-"
-        },
-        {
-          "start": 4470,
-          "rate": 28000,
-          "invalid": false,
-          "description": "-"
-        },
-        {
-          "start": 13363,
-          "rate": 37000,
-          "invalid": false,
-          "description": "-"
-        },
+        { "start": 0, "rate": 14000, "invalid": false, "description": "-" },
+        { "start": 4470, "rate": 28000, "invalid": false, "description": "-" },
+        { "start": 13363, "rate": 37000, "invalid": false, "description": "-" },
         {
           "start": 273742,
           "rate": 46000,
@@ -252,12 +151,7 @@
       "name": "firemaking",
       "xpstart": 0,
       "rates": [
-        {
-          "start": 0,
-          "rate": 45000,
-          "invalid": false,
-          "description": "-"
-        },
+        { "start": 0, "rate": 45000, "invalid": false, "description": "-" },
         {
           "start": 13363,
           "rate": 132660,
@@ -294,12 +188,7 @@
       "name": "crafting",
       "xpstart": 0,
       "rates": [
-        {
-          "start": 0,
-          "rate": 57000,
-          "invalid": false,
-          "description": "-"
-        },
+        { "start": 0, "rate": 57000, "invalid": false, "description": "-" },
         {
           "start": 300000,
           "rate": 170000,
@@ -330,12 +219,7 @@
       "name": "smithing",
       "xpstart": 0,
       "rates": [
-        {
-          "start": 0,
-          "rate": 40000,
-          "invalid": false,
-          "description": "-"
-        },
+        { "start": 0, "rate": 40000, "invalid": false, "description": "-" },
         {
           "start": 18247,
           "rate": 116000,
@@ -366,24 +250,9 @@
       "name": "mining",
       "xpstart": 0,
       "rates": [
-        {
-          "start": 0,
-          "rate": 8000,
-          "invalid": false,
-          "description": "-"
-        },
-        {
-          "start": 14833,
-          "rate": 20000,
-          "invalid": false,
-          "description": "-"
-        },
-        {
-          "start": 41171,
-          "rate": 44000,
-          "invalid": false,
-          "description": "-"
-        },
+        { "start": 0, "rate": 8000, "invalid": false, "description": "-" },
+        { "start": 14833, "rate": 20000, "invalid": false, "description": "-" },
+        { "start": 41171, "rate": 44000, "invalid": false, "description": "-" },
         {
           "start": 302288,
           "rate": 70335,
@@ -420,12 +289,7 @@
       "name": "herblore",
       "xpstart": 0,
       "rates": [
-        {
-          "start": 0,
-          "rate": 60000,
-          "invalid": false,
-          "description": "-"
-        },
+        { "start": 0, "rate": 60000, "invalid": false, "description": "-" },
         {
           "start": 27473,
           "rate": 200000,
@@ -444,24 +308,9 @@
       "name": "agility",
       "xpstart": 0,
       "rates": [
-        {
-          "start": 0,
-          "rate": 6000,
-          "invalid": false,
-          "description": "-"
-        },
-        {
-          "start": 13363,
-          "rate": 15100,
-          "invalid": false,
-          "description": "-"
-        },
-        {
-          "start": 75127,
-          "rate": 42000,
-          "invalid": false,
-          "description": "-"
-        },
+        { "start": 0, "rate": 6000, "invalid": false, "description": "-" },
+        { "start": 13363, "rate": 15100, "invalid": false, "description": "-" },
+        { "start": 75127, "rate": 42000, "invalid": false, "description": "-" },
         {
           "start": 273742,
           "rate": 45000,
@@ -498,18 +347,8 @@
       "name": "thieving",
       "xpstart": 0,
       "rates": [
-        {
-          "start": 0,
-          "rate": 15000,
-          "invalid": false,
-          "description": "-"
-        },
-        {
-          "start": 61512,
-          "rate": 55000,
-          "invalid": false,
-          "description": "-"
-        },
+        { "start": 0, "rate": 15000, "invalid": false, "description": "-" },
+        { "start": 61512, "rate": 55000, "invalid": false, "description": "-" },
         {
           "start": 166636,
           "rate": 90000,
@@ -539,37 +378,15 @@
     {
       "name": "slayer",
       "xpstart": 0,
-      "rates": [
-        {
-          "start": 0,
-          "rate": 0,
-          "invalid": false,
-          "description": "-"
-        }
-      ]
+      "rates": [{ "start": 0, "rate": 0, "invalid": false, "description": "-" }]
     },
     {
       "name": "farming",
       "xpstart": 0,
       "rates": [
-        {
-          "start": 0,
-          "rate": 10000,
-          "invalid": false,
-          "description": "-"
-        },
-        {
-          "start": 2411,
-          "rate": 50000,
-          "invalid": false,
-          "description": "-"
-        },
-        {
-          "start": 13363,
-          "rate": 80000,
-          "invalid": false,
-          "description": "-"
-        },
+        { "start": 0, "rate": 10000, "invalid": false, "description": "-" },
+        { "start": 2411, "rate": 50000, "invalid": false, "description": "-" },
+        { "start": 13363, "rate": 80000, "invalid": false, "description": "-" },
         {
           "start": 61512,
           "rate": 150000,
@@ -594,18 +411,8 @@
       "name": "runecraft",
       "xpstart": 0,
       "rates": [
-        {
-          "start": 0,
-          "rate": 8000,
-          "invalid": false,
-          "description": "-"
-        },
-        {
-          "start": 6291,
-          "rate": 45000,
-          "invalid": false,
-          "description": "-"
-        },
+        { "start": 0, "rate": 8000, "invalid": false, "description": "-" },
+        { "start": 6291, "rate": 45000, "invalid": false, "description": "-" },
         {
           "start": 13034431,
           "rate": 70000,
@@ -618,24 +425,9 @@
       "name": "hunter",
       "xpstart": 0,
       "rates": [
-        {
-          "start": 0,
-          "rate": 55000,
-          "invalid": false,
-          "description": "-"
-        },
-        {
-          "start": 2107,
-          "rate": 82000,
-          "invalid": false,
-          "description": "-"
-        },
-        {
-          "start": 7028,
-          "rate": 110000,
-          "invalid": false,
-          "description": "-"
-        },
+        { "start": 0, "rate": 55000, "invalid": false, "description": "-" },
+        { "start": 2107, "rate": 82000, "invalid": false, "description": "-" },
+        { "start": 7028, "rate": 110000, "invalid": false, "description": "-" },
         {
           "start": 20224,
           "rate": 138000,
@@ -684,12 +476,7 @@
       "name": "construction",
       "xpstart": 0,
       "rates": [
-        {
-          "start": 0,
-          "rate": 20000,
-          "invalid": false,
-          "description": "-"
-        },
+        { "start": 0, "rate": 20000, "invalid": false, "description": "-" },
         {
           "start": 18247,
           "rate": 100000,

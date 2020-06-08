@@ -1,6 +1,6 @@
 {
   "type": "main",
-  "date": "2020-06-08",
+  "date": "2020-05-16",
   "skills": [
     {
       "name": "attack",
@@ -228,12 +228,7 @@
       "name": "woodcutting",
       "xpstart": 0,
       "rates": [
-        {
-          "start": 0,
-          "rate": 7000,
-          "invalid": false,
-          "description": "Trees"
-        },
+        { "start": 0, "rate": 7000, "invalid": false, "description": "Trees" },
         {
           "start": 2411,
           "rate": 16000,
@@ -462,12 +457,7 @@
       "name": "mining",
       "xpstart": 0,
       "rates": [
-        {
-          "start": 0,
-          "rate": 8000,
-          "invalid": false,
-          "description": "Quests"
-        },
+        { "start": 0, "rate": 8000, "invalid": false, "description": "Quests" },
         {
           "start": 14833,
           "rate": 20000,
@@ -732,12 +722,7 @@
       "name": "runecraft",
       "xpstart": 0,
       "rates": [
-        {
-          "start": 0,
-          "rate": 8000,
-          "invalid": false,
-          "description": "Quests"
-        },
+        { "start": 0, "rate": 8000, "invalid": false, "description": "Quests" },
         {
           "start": 2106,
           "rate": 20000,
