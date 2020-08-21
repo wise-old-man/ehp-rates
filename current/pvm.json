@@ -1,0 +1,146 @@
+{
+  "type": "pvm",
+  "date": "2020-08-21",
+  "bosses": [
+    {
+      "boss": "abyssal sire",
+      "rate": 34.0
+    },
+    {
+      "boss": "alchemical hydra",
+      "rate": 27.0
+    },
+    {
+      "boss": "callisto",
+      "rate": 30.0
+    },
+    {
+      "boss": "cerberus",
+      "rate": 61.0
+    },
+    {
+      "boss": "chambers of xeric",
+      "rate": 3.0
+    },
+    {
+      "boss": "chambers of xeric challenge mode",
+      "rate": 2.2
+    },
+    {
+      "boss": "chaos elemental",
+      "rate": 60.0
+    },
+    {
+      "boss": "chaos fanatic",
+      "rate": 100.0
+    },
+    {
+      "boss": "commander zilyana",
+      "rate": 45.0
+    },
+    {
+      "boss": "corporeal beast",
+      "rate": 45.0
+    },
+    {
+      "boss": "dagannoth prime",
+      "rate": 88.0
+    },
+    {
+      "boss": "dagannoth rex",
+      "rate": 88.0
+    },
+    {
+      "boss": "dagannoth supreme",
+      "rate": 88.0
+    },
+    {
+      "boss": "general graardor",
+      "rate": 30.0
+    },
+    {
+      "boss": "giant mole",
+      "rate": 80.0
+    },
+    {
+      "boss": "grotesque guardians",
+      "rate": 30.0
+    },
+    {
+      "boss": "kalphite queen",
+      "rate": 35.0
+    },
+    {
+      "boss": "king black dragon",
+      "rate": 110.0
+    },
+    {
+      "boss": "kraken",
+      "rate": 90.0
+    },
+    {
+      "boss": "kreearra",
+      "rate": 25.0
+    },
+    {
+      "boss": "kril tsutsaroth",
+      "rate": 40.0
+    },
+    {
+      "boss": "the nightmare",
+      "rate": 15.0
+    },
+    {
+      "boss": "sarachnis",
+      "rate": 60.0
+    },
+    {
+      "boss": "scorpia",
+      "rate": 100.0
+    },
+    {
+      "boss": "skotizo",
+      "rate": 45.0
+    },
+    {
+      "boss": "the gauntlet",
+      "rate": 10.0
+    },
+    {
+      "boss": "the corrupted gauntlet",
+      "rate": 6.5
+    },
+    {
+      "boss": "theatre of blood",
+      "rate": 3.0
+    },
+    {
+      "boss": "thermonuclear smoke devil",
+      "rate": 110.0
+    },
+    {
+      "boss": "tzkal-zuk",
+      "rate": 0.8
+    },
+    {
+      "boss": "tztok-jad",
+      "rate": 2.0
+    },
+    {
+      "boss": "venenatis",
+      "rate": 44.0
+    },
+    {
+      "boss": "vetion",
+      "rate": 30.0
+    },
+    {
+      "boss": "vorkath",
+      "rate": 32.0
+    },
+    {
+      "boss": "zulrah",
+      "rate": 35.0
+    }
+  ]
+}
