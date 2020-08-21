@@ -31,7 +31,7 @@
       "rate": 3.0
     },
     {
-      "boss": "barrows chests",
+      "boss": "barrows_chests",
       "rate": 0.0
     },
     {
@@ -39,11 +39,11 @@
       "rate": 0.0
     },
     {
-      "boss": "crazy archaeologist",
+      "boss": "crazy_archaeologist",
       "rate": 0.0
     },
     {
-      "boss": "deranged archaeologist",
+      "boss": "deranged_archaeologist",
       "rate": 0.0
     },
     {
