@@ -1,6 +1,6 @@
 {
   "type": "ehb",
-  "date": "2020-08-21",
+  "date": "2020-09-02",
   "bosses": [
     {
       "boss": "abyssal_sire",
@@ -40,7 +40,7 @@
     },
     {
       "boss": "corporeal_beast",
-      "rate": 45.0
+      "rate": 25.0
     },
     {
       "boss": "dagannoth_prime",
@@ -64,7 +64,7 @@
     },
     {
       "boss": "grotesque_guardians",
-      "rate": 30.0
+      "rate": 36.0
     },
     {
       "boss": "kalphite_queen",
@@ -88,7 +88,7 @@
     },
     {
       "boss": "the_nightmare",
-      "rate": 15.0
+      "rate": 14.0
     },
     {
       "boss": "sarachnis",
