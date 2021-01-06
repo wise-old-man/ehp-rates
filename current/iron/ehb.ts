@@ -1,7 +1,7 @@
 export default
 {
   "type": "ehb",
-  "date": "2020-09-19",
+  "date": "2021-01-06",
   "bosses": [
     {
       "boss": "abyssal_sire",
